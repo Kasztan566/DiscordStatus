@@ -1,6 +1,7 @@
 # DiscordStatus 🌵
 Requirements:
 🍁 Python
+
 🎉 Library **pypresence**
 
 # How to install?
